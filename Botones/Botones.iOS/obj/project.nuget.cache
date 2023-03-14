@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YwGzEN0Mw7cYrI+FgnQdBl91+Chk0bRbqbxgDiEqodiHp/YRkauIQkyiKeNhrpplSgTs8XFleaq1AM+e558gkw==",
+  "dgSpecHash": "ZxVL5nLTEGeSxyBRvvZ4oKvXH2GVy6NdCs8ohoJGyZEQv8poGPLUnEQJQ4fGazOKjGYBEXvGbeusHQzOXHKW4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.iOS\\Botones.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.iOS\\Botones.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\milag\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\milag\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\milag\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

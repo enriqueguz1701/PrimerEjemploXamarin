@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Botones.Vista.PrimeraPagina">
+             x:Class="Botones.Vista.PrimeraPagina"
+             Title="Primera app"
+             BackgroundColor="Aquamarine">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Hola"
                      Order="Secondary"
@@ -15,10 +17,14 @@
     </ContentPage.ToolbarItems>
     
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+        <StackLayout VerticalOptions="Center">
+            <Label Text="Hola mundo"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+
+            <Entry Placeholder="Número 1" x:Name="txtNumero1" VerticalOptions="CenterAndExpand" Keyboard="Numeric" TextColor="Black" PlaceholderColor="Black"/>
+            <Entry Placeholder="Número 2" x:Name="txtNumero2" VerticalOptions="CenterAndExpand" Keyboard="Numeric" TextColor="Black" PlaceholderColor="Black"/>
+            <Button Text="Calcular" x:Name="btnCalcular" VerticalOptions="CenterAndExpand" Margin="30,0,30,5" CornerRadius="15" BackgroundColor="#4435A9" TextColor="White" FontAttributes="Bold" Clicked="btnCalcular_Clicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

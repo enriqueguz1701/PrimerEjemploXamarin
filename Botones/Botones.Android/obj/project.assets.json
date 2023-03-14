@@ -3408,26 +3408,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\milag\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
       "projectName": "Botones.Android",
-      "projectPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
-      "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\milag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid13.0"
@@ -3439,8 +3442,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj": {
-              "projectPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj"
+            "C:\\Users\\Usuario\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj"
             }
           }
         }
