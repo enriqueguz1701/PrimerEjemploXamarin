@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones.Android\\Botones.Android.csproj": {}
+    "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\Botones.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones.Android\\Botones.Android.csproj": {
+    "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\Botones.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
+        "projectUniqueName": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
         "projectName": "Botones.Android",
-        "projectPath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
+        "projectPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
         "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones.Android\\obj\\",
+        "outputPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones\\Botones.csproj": {
-                "projectPath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones\\Botones.csproj"
+              "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj": {
+                "projectPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones\\Botones.csproj": {
+    "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones\\Botones.csproj",
+        "projectUniqueName": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj",
         "projectName": "Botones",
-        "projectPath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones\\Botones.csproj",
+        "projectPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj",
         "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones\\obj\\",
+        "outputPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

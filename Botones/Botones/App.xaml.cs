@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Botones.Vista;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace Botones
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new PrimeraPagina());
         }
 
         protected override void OnStart()

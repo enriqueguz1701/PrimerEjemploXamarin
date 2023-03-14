@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZ5CVmMoCxLbiSLmYA7h4xZIBMpYSTKhwBoSm5FcLfNRBQ1b6mFFfodkiaFiYHmS5tDa8ESMaw+ZJjnm4u4kAA==",
+  "dgSpecHash": "QRSjKIW5FLnEMg8OQN5jvSSrwxch3nnWo/AbJvJawtBydOn+dqkzN19u2uHYJ2sz4mCgcBS+OzcPCCufOmjxqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones\\Botones.csproj",
+  "projectFilePath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\milag\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\milag\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

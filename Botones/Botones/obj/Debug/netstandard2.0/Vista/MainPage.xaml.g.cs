@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Botones.MainPage.xaml", "MainPage.xaml", typeof(global::Botones.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Botones.Vista.MainPage.xaml", "Vista/MainPage.xaml", typeof(global::Botones.Vista.MainPage))]
 
-namespace Botones {
+namespace Botones.Vista {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Vista\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

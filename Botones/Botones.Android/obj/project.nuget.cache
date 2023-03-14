@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xJbWL5kB3as6Bwqqg28msiDjEAKXTNfmO6hSHksux9m1THap/8HrIpu82vpVlS/ibdYlYZL+ZQ/Qld4mEdbRRA==",
+  "dgSpecHash": "/+G+qUAlfXP/qXyky1xi7gFLHkzDwi3N/4FDj97/rMWpXi56yOxS1zIG+K0bKbF0/MTHAkMDRiHpqYssnElepA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
+  "projectFilePath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.Android\\Botones.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\milag\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\milag\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

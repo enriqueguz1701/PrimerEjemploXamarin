@@ -1068,11 +1068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones.iOS\\Botones.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.iOS\\Botones.iOS.csproj",
       "projectName": "Botones.iOS",
-      "projectPath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones.iOS\\Botones.iOS.csproj",
+      "projectPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.iOS\\Botones.iOS.csproj",
       "packagesPath": "C:\\Users\\milag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones.iOS\\obj\\",
+      "outputPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones\\Botones.csproj": {
-              "projectPath": "C:\\Users\\milag\\Documents\\Xamarin\\Botones\\Botones\\Botones.csproj"
+            "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj": {
+              "projectPath": "C:\\Users\\milag\\Documents\\GitHub\\PrimerEjemploXamarin\\Botones\\Botones\\Botones.csproj"
             }
           }
         }
