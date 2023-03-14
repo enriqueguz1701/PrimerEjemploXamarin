@@ -1,0 +1,15 @@
+C:\Users\milag\Documents\Xamarin\Botones\Botones\bin\Debug\netstandard2.0\Botones.deps.json
+C:\Users\milag\Documents\Xamarin\Botones\Botones\bin\Debug\netstandard2.0\Botones.dll
+C:\Users\milag\Documents\Xamarin\Botones\Botones\bin\Debug\netstandard2.0\Botones.pdb
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\Botones.csproj.AssemblyReference.cache
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\Botones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\Botones.AssemblyInfoInputs.cache
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\Botones.AssemblyInfo.cs
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\Botones.csproj.CoreCompileInputs.cache
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\Botones.dll
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\refint\Botones.dll
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\Botones.pdb
+C:\Users\milag\Documents\Xamarin\Botones\Botones\obj\Debug\netstandard2.0\ref\Botones.dll
